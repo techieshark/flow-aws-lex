@@ -1,0 +1,25 @@
+{
+  "name": "flow-aws-lex",
+  "version": "1.0.0",
+  "description": "Flow types for AWS Lex Lambda function input event and response format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flow",
+    "aws",
+    "lex",
+    "lambda"
+  ],
+  "author": "Peter W (@techieshark)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techieshark/flow-aws-lex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/techieshark/flow-aws-lex/issues"
+  },
+  "homepage": "https://github.com/techieshark/flow-aws-lex#readme"
+}
